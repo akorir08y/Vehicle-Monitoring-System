@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textPrimary">@color/white</color>
+    <color name="colorPrimary1">#cff7cf</color>
+
+
+    <color name="red1">#af0a0a</color>
+    <color name="red2">#c40909</color>
+    <color name="red3">#e50909</color>
+    <color name="orange1">#FF8333</color>
+    <color name="green1">#29CF40</color>
+    <color name="blue1">#66a3ff</color>
+    <color name="blue2">#0033cc</color>
+    <color name="linkBlue">#4d94ff</color>
+    <color name="blue3">#e0f5f5</color>
+    <color name="blue4">#00aab1</color>
+    <color name="blue5">#007f85</color>
+    <color name="White">#fff</color>
+    <color name="darkGrey">#a6a6a6 </color>
+    <color name="Grey">#c3c3c3 </color>
+    <color name="lightGrey">#f2f2f2 </color>
+    <color name="transparentGrey">#8f737373 </color>
+    <color name="DarkGrey">#737373 </color>
+    <color name="Black">#000 </color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_background">@color/io_main3</color>
+    <color name="switch_on">#00FF00</color>
+    <color name="switch_off">#FF0000</color>
+
+    <!-- I/O color schemes -->
+    <color name="io_main1">#0E9AAD</color>
+    <color name="io_main2">#5D6ABF</color>
+    <color name="io_main3">#445963</color>
+    <color name="io_grays1">#EBEEF0</color>
+    <color name="io_grays2">#AFBDC4</color>
+    <color name="io_accent1">#FF5151</color>
+    <color name="io_accent2">#8CEDEA</color>
+    <color name="io_accent3">#4CCFE0</color>
+    <color name="io_accent4">#7BB241</color>
+    <color name="io_accent5">#FFC927</color>
+    <color name="io_accent6">#7885CA</color>
+</resources>

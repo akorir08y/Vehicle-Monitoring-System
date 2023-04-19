@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Bus</string>
+    <string name="google_maps_api_key">AIzaSyC6TLC3ZtiKYZVAC7Mc3aotwb7I7WjCdzk</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="tabian_consulting_logo">Tabian Consulting Logo</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- Firestore Strings -->
+    <string name="collection_users">Users</string>
+    <string name="collection_chatrooms">Chatrooms</string>
+    <string name="collection_chat_messages">Chat Messages</string>
+    <string name="collection_chatroom_user_list">User List</string>
+    <string name="collection_user_locations">User Locations</string>
+
+    <!-- Intent extras -->
+    <string name="intent_chatroom">intent_chatroom</string>
+    <string name="intent_user_list">intent_user_list</string>
+    <string name="intent_user_locations">intent_user_locations</string>
+    <string name="intent_location">intent_location</string>
+
+    <!-- Service and Broadcasts -->
+    <string name="gps_location">gps_location</string>
+
+
+    <!-- Fragments Names -->
+    <string name="fragment_user_list">User List</string>
+    <string name="fragment_image_list">Image List</string>
+
+    <!-- Other Strings -->
+    <string name="action_create_chatroom">Create Chatroom</string>
+    <string name="action_leave_chatroom">Leave chatroom</string>
+    <string name="action_chatroom_user_list">User list</string>
+    <string name="action_profile">Profile</string>
+    <string name="maps">maps</string>
+    <string name="img">img</string>
+    <string name="txt_edit">txt_edit</string>
+    <string name="ping">ping</string>
+    <string name="pinging_there">pinging there</string>
+    <string name="places_pick">places_pick</string>
+    <string name="makini">Makini</string>
+    <string name="Makini">makini</string>
+    <string name="user_location">User Location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_address_city_or_zip_code">Enter address, City or Zip Code</string>
+    <string name="transport_id">transport</string>
+    <string name="firebase_path">firebasepath</string>
+    <string name="tracking">track</string>
+    <string name="connecting">connect</string>
+    <string name="prefs">pref</string>
+    <string name="not_tracking">no-tracker</string>
+    <string name="auth_failed">auth_fail</string>
+    <string name="status">status</string>
+    <string name="title_activity_main">main_active_title</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="location_permissions_required">Location Permission Required</string>
+    <string name="enter_transport_id">Enter Transport Id</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="number_plate">Number Plate</string>
+    <string name="driver_registration">Driver Registration</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="edit_profile_1">Edit Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="collection_drivers">collection_drivers</string>
+    <string name="drivers">drivers</string>
+    <string name="prompt_username">username_prompt</string>
+    <string name="username">Username</string>
+    <string name="content_online">content_online</string>
+    <string name="leave">Leave</string>
+    <string name="join">Join</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
